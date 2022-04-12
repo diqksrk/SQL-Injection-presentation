@@ -1,7 +1,7 @@
 # SQL-Injection-presentation
 
 ## -목차-
-&nbsp;&nbsp;1.  [SQL Injection이란?](https://github.com/diqksrk/SQL-Injection-presentation#1-SQL Injection이란?)<br>
+&nbsp;&nbsp;1.  [SQL Injection이란?](https://github.com/diqksrk/SQL-Injection-presentation#1-SQL-Injection이란?)<br>
 <br>
 &nbsp;&nbsp;2.  [SQL Injection 수행방법](https://github.com/diqksrk/opensource-10#2-개발자를-위한-사양-설명서)<br>
 <br>
