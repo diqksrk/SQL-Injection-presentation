@@ -13,7 +13,7 @@
 <br>
 ## 1. SQL Injection이란?
 <p align="center">
-<img src="img/login.png" style="float:left;" alt="img1">
+<img src="sqlInjection1.JPG" style="float:left;" alt="img1">
 <p/>
 
 ## 2. SQL Injection 수행방법
