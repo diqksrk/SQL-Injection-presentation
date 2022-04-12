@@ -34,6 +34,4 @@
 <p/>
 
 ## 5. 발표 영상
-<p align="center">
-<img src="img/login.png" style="float:left;" alt="img1">
-<p/>
+발표 영상(https://drive.google.com/file/d/1mB5QmfwSYN1BdjcXHd67QJyhC0Wklmau/view?usp=sharing)
