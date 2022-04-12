@@ -5,11 +5,11 @@
 <br>
 &nbsp;&nbsp;2.  [SQL Injection 수행방법](https://github.com/diqksrk/SQL-Injection-presentation#2-SQL-Injection-수행방법)<br>
 <br>
-&nbsp;&nbsp;3.  [SQL Injection 공격기법](https://github.com/diqksrk/opensource-10#3-개발-참여-방법-안내)<br>
+&nbsp;&nbsp;3.  [SQL Injection 공격기법](https://github.com/diqksrk/SQL-Injection-presentation#3-SQL-Injection-공격기법)<br>
 <br>
-&nbsp;&nbsp;4.  [SQL Injection 대응방법 : 시큐어 코딩](https://github.com/diqksrk/opensource-10#4-적용-라이센스)<br>
+&nbsp;&nbsp;4.  [SQL Injection 대응방법 : 시큐어 코딩](https://github.com/diqksrk/SQL-Injection-presentation#4-SQL-Injection-대응방법-:-시큐어-코딩)<br>
 <br>
-&nbsp;&nbsp;5.  [발표 영상](https://github.com/diqksrk/opensource-10#4-적용-라이센스)<br>
+&nbsp;&nbsp;5.  [발표 영상](https://github.com/diqksrk/SQL-Injection-presentation#5-발표-영상)<br>
 <br>
 ## 1. SQL Injection이란?
 <p align="center">
