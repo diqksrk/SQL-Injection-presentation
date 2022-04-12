@@ -7,7 +7,7 @@
 <br>
 &nbsp;&nbsp;3.  [SQL Injection 공격기법](https://github.com/diqksrk/SQL-Injection-presentation#3-SQL-Injection-공격기법)<br>
 <br>
-&nbsp;&nbsp;4.  [SQL Injection 대응방법 : 시큐어 코딩](https://github.com/diqksrk/SQL-Injection-presentation#4-SQL-Injection-대응방법-:-시큐어-코딩)<br>
+&nbsp;&nbsp;4.  [SQL Injection 대응방법 : 시큐어 코딩](https://github.com/diqksrk/SQL-Injection-presentation#4-SQL-Injection-대응방법-시큐어-코딩)<br>
 <br>
 &nbsp;&nbsp;5.  [발표 영상](https://github.com/diqksrk/SQL-Injection-presentation#5-발표-영상)<br>
 <br>
@@ -28,7 +28,7 @@
 <img src="sqlInjection4.JPG" style="float:left;" alt="img1">
 <p/>
   
-## 4. SQL Injection 대응방법 : 시큐어 코딩
+## 4. SQL Injection 대응방법 시큐어 코딩
 <p align="center">
 <img src="sqlInjection5.JPG" style="float:left;" alt="img1">
 <p/>
